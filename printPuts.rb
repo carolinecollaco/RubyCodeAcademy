@@ -1,0 +1,2 @@
+puts "Olá!"
+print "Olá!"
