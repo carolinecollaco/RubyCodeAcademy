@@ -5,3 +5,5 @@ creatures = { "doninhas" => 0,
   "Elefantes" => 7,
   "Tigres" => 1
 }
+
+creatures[2]
